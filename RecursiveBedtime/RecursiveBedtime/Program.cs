@@ -16,5 +16,12 @@ namespace RecursiveBedtime
             Console.WriteLine("The story has concluded. Press any key to exit...");
             Console.ReadKey();
         }
+
+        //The start of a recursive method has been provided for you.
+        //You can change it however you want or delete it.
+        static void RecursiveMethod(String thing)
+        {
+
+        }
     }
 }
