@@ -12,6 +12,7 @@ namespace RecursiveBedtime
         static void Main()
         {
             //TODO: Your code here
+            //Hint: Get the first input here and pass it into the recursive method when you call it.
 
             Console.WriteLine("The story has concluded. Press any key to exit...");
             Console.ReadKey();
