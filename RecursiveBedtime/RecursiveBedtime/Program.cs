@@ -22,7 +22,9 @@ namespace RecursiveBedtime
         //You can change it however you want or delete it.
         static void RecursiveMethod(String thing)
         {
-
+            //Stuff that happens before re-calling the recursive method...
+            //Re-calling the recursive method...
+            //Stuff that happens after calling the recursive method...
         }
     }
 }
